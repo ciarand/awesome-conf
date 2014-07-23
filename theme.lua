@@ -6,7 +6,7 @@ github.com/copycat-killer
 
 local theme                         = {}
 
-theme.confdir                       = os.getenv("HOME") .. "/.config/awesome/themes/multicolor"
+theme.confdir                       = os.getenv("HOME") .. "/.config/awesome/"
 theme.wallpaper                     = theme.confdir .. "/wall.png"
 
 theme.font                          = "Terminus 8"
